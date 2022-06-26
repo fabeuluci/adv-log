@@ -17,6 +17,6 @@
     "watch": "rm -rf out && tsc -w"
   },
   "devDependencies": {
-    "@types/node": "^17.0.40"
+    "@types/node": "^17.0.45"
   }
 }
